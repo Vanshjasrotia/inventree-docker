@@ -1,0 +1,2 @@
+import{r as e,bV as r,ab as s,j as i,O as o,d8 as n,c as f}from"./index-DO3Hsv6V.js";import{Wrapper as l}from"./Layout-uhXusGWS.js";import{a1 as m,a as c}from"./ThemeContext-CGjWYKat.js";function x(){const{key:a}=m(),t=c();return e.useEffect(()=>{a||(r.show({title:s._({id:"Z6LIBa"}),message:s._({id:"aUBlDM"}),color:"red"}),t("/login"))},[a]),i.jsx(l,{titleText:s._({id:"wCKkSr"}),children:i.jsx(o,{type:"submit",onClick:()=>n(a,t),children:i.jsx(f,{id:"uSMfoN"})})})}export{x as default};
+//# sourceMappingURL=VerifyEmail-D4Pc7xkq.js.map

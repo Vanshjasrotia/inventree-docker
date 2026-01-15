@@ -1,0 +1,2 @@
+import{j as r,aj as x,d,c as j,ay as m,ab as s}from"./index-DO3Hsv6V.js";import{b as u}from"./QRCode-D-HsAD7c.js";function b({url:a,secret:e,value:t,error:i,setValue:n}){return r.jsxs(r.Fragment,{children:[r.jsx(x,{}),r.jsx(u,{data:a}),r.jsxs(d,{children:[r.jsx(j,{id:"8VEDbV"}),r.jsx("br",{}),e]}),r.jsx(m,{required:!0,label:s._({id:"+RO3kt"}),description:s._({id:"6mSv4V"}),value:t,onChange:o=>n(o.currentTarget.value),error:i})]})}export{b as Q};
+//# sourceMappingURL=QrRegistrationForm-k5-ofh17.js.map
